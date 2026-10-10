@@ -3,7 +3,7 @@ import { NextResponse } from "next/server";
 const spec = {
   openapi: "3.1.0",
   info: {
-    title: "Fraud, Living API",
+    title: "Fraud Losses, Tracked API",
     version: "1.0.0",
     description:
       "350,361 fraud reports and $2.687B in reported losses from the Canadian Anti-Fraud Centre Fraud Reporting System Dataset (2021-01-01 to 2025-09-30, extracted 2025-10-01), normalized by scam type, age band, and province, with per-capita math from StatCan quarterly population estimates. An independent open-source project, not affiliated with the Government of Canada, the RCMP, or the CAFC. MIT licensed.",

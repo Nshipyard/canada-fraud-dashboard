@@ -84,7 +84,7 @@ export default function Developers() {
         <McpConnect
           config={{
             slug: "fraud-living",
-            displayName: "Fraud, Living",
+            displayName: "Fraud Losses, Tracked",
             exampleEn: 'Rank scam types by reported loss and show me the top 3 with their per-victim averages',
             exampleFr: 'Classe les types d’arnaque par perte déclarée et montre-moi les 3 premiers avec leurs moyennes par victime',
           }}

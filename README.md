@@ -1,4 +1,4 @@
-# Fraud, Living
+# Fraud Losses, Tracked
 
 The Canadian Anti-Fraud Centre publishes 350,361 reports and $2.687 billion in reported losses, row by row, and it never answers the follow-up: which scams drain the most money, from which Canadians. This project normalizes the registry, ranks every scam type by loss, and cross-tabs losses by age band and province, quarterly, from January 2021 to September 2025.
 

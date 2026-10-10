@@ -1,4 +1,4 @@
-# Fraud, Living (llms.txt)
+# Fraud Losses, Tracked (llms.txt)
 
 ## Summary
 An open-source EN/FR web project that normalizes the Canadian Anti-Fraud Centre Fraud Reporting System Dataset (350,361 reports, $2.687B reported losses) and ranks scam types by loss, with age-band and per-capita province views and quarterly trends. Source: open.canada.ca, RCMP/CAFC, extract 2025-10-01, coverage 2021-01-01 to 2025-09-30, retrieved 2026-10-10. Planned domain: fraud.canada.nshipyard.com. Not affiliated with the Government of Canada, the RCMP, or the CAFC.
