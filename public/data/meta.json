@@ -1,0 +1,20 @@
+{
+ "title": "Canadian Anti-Fraud Centre Fraud Reporting System Dataset",
+ "publisher": "Royal Canadian Mounted Police, Canadian Anti-Fraud Centre",
+ "source_url": "https://open.canada.ca/data/en/dataset/6a09c998-cddb-4a22-beff-4dca67ab892f",
+ "period": "2021-01-01 to 2025-09-30 (extracted 2025-10-01)",
+ "retrieved": "2026-10-10",
+ "raw_rows": 350361,
+ "kept_rows": 350361,
+ "total_loss": 2687420243.97,
+ "victim_row_share_of_loss": 100.0,
+ "quarantine": {},
+ "quarantine_rows": 0,
+ "honest_limits": [
+  "37.7% of reported losses carry no victim age.",
+  "19.9% of reported losses carry no province.",
+  "Geographic grain is province only. No city or postal-code view is possible from this data.",
+  "All reported losses come from Victim rows. Attempt rows carry $0 in this extract.",
+  "Losses are reported losses, not independently verified amounts."
+ ]
+}

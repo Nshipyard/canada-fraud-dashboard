@@ -1,0 +1,72 @@
+[
+ {
+  "method": "Internet-social network",
+  "loss": 828767029.44,
+  "reports": 39565
+ },
+ {
+  "method": "Internet",
+  "loss": 678326725.93,
+  "reports": 33356
+ },
+ {
+  "method": "Email",
+  "loss": 347865932.26,
+  "reports": 39304
+ },
+ {
+  "method": "Direct call",
+  "loss": 309120633.93,
+  "reports": 81723
+ },
+ {
+  "method": "Other/unknown",
+  "loss": 260984104.48,
+  "reports": 101691
+ },
+ {
+  "method": "Text message",
+  "loss": 129506151.77,
+  "reports": 28227
+ },
+ {
+  "method": "Door to door/in person",
+  "loss": 66197140.27,
+  "reports": 4330
+ },
+ {
+  "method": "Not Available",
+  "loss": 56257009.95,
+  "reports": 18249
+ },
+ {
+  "method": "Television",
+  "loss": 2979809.38,
+  "reports": 84
+ },
+ {
+  "method": "Mail",
+  "loss": 2507501.13,
+  "reports": 3444
+ },
+ {
+  "method": "Print",
+  "loss": 2282823.45,
+  "reports": 65
+ },
+ {
+  "method": "Video Call",
+  "loss": 2097198.22,
+  "reports": 142
+ },
+ {
+  "method": "Radio",
+  "loss": 512143.78,
+  "reports": 8
+ },
+ {
+  "method": "Fax",
+  "loss": 16039.98,
+  "reports": 173
+ }
+]

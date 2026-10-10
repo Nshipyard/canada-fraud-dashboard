@@ -1,0 +1,106 @@
+[
+ {
+  "province": "Nunavut",
+  "loss": 3542643.47,
+  "reports": 100,
+  "population": 43091,
+  "loss_per_capita": 82.21,
+  "unstable": true
+ },
+ {
+  "province": "British Columbia",
+  "loss": 355311374.64,
+  "reports": 33958,
+  "population": 5710598,
+  "loss_per_capita": 62.22,
+  "unstable": false
+ },
+ {
+  "province": "Ontario",
+  "loss": 1008002431.76,
+  "reports": 102210,
+  "population": 16262121,
+  "loss_per_capita": 61.98,
+  "unstable": false
+ },
+ {
+  "province": "Manitoba",
+  "loss": 81352540.8,
+  "reports": 9536,
+  "population": 1517379,
+  "loss_per_capita": 53.61,
+  "unstable": false
+ },
+ {
+  "province": "Alberta",
+  "loss": 273295241.1,
+  "reports": 28044,
+  "population": 5101050,
+  "loss_per_capita": 53.58,
+  "unstable": false
+ },
+ {
+  "province": "Saskatchewan",
+  "loss": 51316138.46,
+  "reports": 6219,
+  "population": 1278402,
+  "loss_per_capita": 40.14,
+  "unstable": false
+ },
+ {
+  "province": "Yukon",
+  "loss": 1763624.0,
+  "reports": 320,
+  "population": 50356,
+  "loss_per_capita": 35.02,
+  "unstable": true
+ },
+ {
+  "province": "Northwest Territories",
+  "loss": 1479780.64,
+  "reports": 206,
+  "population": 45904,
+  "loss_per_capita": 32.24,
+  "unstable": true
+ },
+ {
+  "province": "Quebec",
+  "loss": 240295438.89,
+  "reports": 71813,
+  "population": 9067114,
+  "loss_per_capita": 26.5,
+  "unstable": false
+ },
+ {
+  "province": "Prince Edward Island",
+  "loss": 4714684.4,
+  "reports": 904,
+  "population": 182989,
+  "loss_per_capita": 25.76,
+  "unstable": true
+ },
+ {
+  "province": "Nova Scotia",
+  "loss": 26383611.78,
+  "reports": 5684,
+  "population": 1103419,
+  "loss_per_capita": 23.91,
+  "unstable": false
+ },
+ {
+  "province": "New Brunswick",
+  "loss": 21008971.21,
+  "reports": 4668,
+  "population": 883522,
+  "loss_per_capita": 23.78,
+  "unstable": false
+ },
+ {
+  "province": "Newfoundland and Labrador",
+  "loss": 10786361.87,
+  "reports": 2032,
+  "population": 552462,
+  "loss_per_capita": 19.52,
+  "unstable": false
+ }
+]

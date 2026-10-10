@@ -1,0 +1,173 @@
+[
+ {
+  "age": "20 - 29",
+  "cells": {
+   "Investments": 26180828.6,
+   "Romance": 6142387.24,
+   "Spear Phishing": 424861.45,
+   "Job": 11538579.92,
+   "Service": 3382532.83,
+   "Extortion": 16072415.24,
+   "Unknown": 845544.21,
+   "Bank Investigator": 2966401.87,
+   "Other": 1097051.18,
+   "Merchandise": 3356426.23,
+   "Recovery Pitch": 343086.35,
+   "Emergency (Jail, Accident, Hospital, Help)": 160570.96
+  },
+  "band_total": 75389518.83,
+  "band_avg_per_report_with_loss": 7929.06
+ },
+ {
+  "age": "30 - 39",
+  "cells": {
+   "Investments": 96202035.24,
+   "Romance": 21272341.26,
+   "Spear Phishing": 898635.47,
+   "Job": 17514615.82,
+   "Service": 6236344.89,
+   "Extortion": 8585877.06,
+   "Unknown": 972765.52,
+   "Bank Investigator": 5062460.69,
+   "Other": 1653640.5,
+   "Merchandise": 4298503.82,
+   "Recovery Pitch": 974966.96,
+   "Emergency (Jail, Accident, Hospital, Help)": 772133.89
+  },
+  "band_total": 170892070.13,
+  "band_avg_per_report_with_loss": 18381.42
+ },
+ {
+  "age": "40 - 49",
+  "cells": {
+   "Investments": 168019064.86,
+   "Romance": 42413643.33,
+   "Spear Phishing": 2096581.34,
+   "Job": 21275662.69,
+   "Service": 8254677.35,
+   "Extortion": 7526223.47,
+   "Unknown": 4061913.05,
+   "Bank Investigator": 4977716.02,
+   "Other": 2666280.17,
+   "Merchandise": 4371160.2,
+   "Recovery Pitch": 3916784.12,
+   "Emergency (Jail, Accident, Hospital, Help)": 343294.11
+  },
+  "band_total": 276357711.24,
+  "band_avg_per_report_with_loss": 32440.16
+ },
+ {
+  "age": "50 - 59",
+  "cells": {
+   "Investments": 263984348.79,
+   "Romance": 47446356.43,
+   "Spear Phishing": 2195106.36,
+   "Job": 23143671.32,
+   "Service": 6483814.59,
+   "Extortion": 5972584.9,
+   "Unknown": 586870.14,
+   "Bank Investigator": 8146560.07,
+   "Other": 3005496.48,
+   "Merchandise": 5334995.98,
+   "Recovery Pitch": 8423846.47,
+   "Emergency (Jail, Accident, Hospital, Help)": 1117421.03
+  },
+  "band_total": 382669470.34,
+  "band_avg_per_report_with_loss": 47791.87
+ },
+ {
+  "age": "60 - 69",
+  "cells": {
+   "Investments": 277012441.26,
+   "Romance": 66494273.76,
+   "Spear Phishing": 1966783.69,
+   "Job": 8145520.84,
+   "Service": 15076391.71,
+   "Extortion": 8893638.86,
+   "Unknown": 2480890.49,
+   "Bank Investigator": 10070872.13,
+   "Other": 2305717.91,
+   "Merchandise": 3589079.32,
+   "Recovery Pitch": 11001698.47,
+   "Emergency (Jail, Accident, Hospital, Help)": 4499072.64
+  },
+  "band_total": 429129052.1,
+  "band_avg_per_report_with_loss": 49707.99
+ },
+ {
+  "age": "70 - 79",
+  "cells": {
+   "Investments": 152206877.12,
+   "Romance": 35926334.25,
+   "Spear Phishing": 2480315.22,
+   "Job": 1577924.15,
+   "Service": 15464681.51,
+   "Extortion": 9174376.28,
+   "Unknown": 908583.3,
+   "Bank Investigator": 11242140.29,
+   "Other": 2622195.23,
+   "Merchandise": 1547992.83,
+   "Recovery Pitch": 8024277.1,
+   "Emergency (Jail, Accident, Hospital, Help)": 8269307.0
+  },
+  "band_total": 265346880.72,
+  "band_avg_per_report_with_loss": 46373.1
+ },
+ {
+  "age": "80 - 89",
+  "cells": {
+   "Investments": 21527798.71,
+   "Romance": 5504370.36,
+   "Spear Phishing": 17212.0,
+   "Job": 134107.55,
+   "Service": 6727476.24,
+   "Extortion": 628794.14,
+   "Unknown": 747344.79,
+   "Bank Investigator": 3699065.69,
+   "Other": 63810.99,
+   "Merchandise": 277715.49,
+   "Recovery Pitch": 3153328.63,
+   "Emergency (Jail, Accident, Hospital, Help)": 7072805.44
+  },
+  "band_total": 57624303.33,
+  "band_avg_per_report_with_loss": 31181.98
+ },
+ {
+  "age": "10 - 19",
+  "cells": {
+   "Investments": 1114554.12,
+   "Romance": 110891.29,
+   "Spear Phishing": 8216.96,
+   "Job": 726315.77,
+   "Service": 319265.61,
+   "Extortion": 4705158.9,
+   "Unknown": 49292.38,
+   "Bank Investigator": 403828.4,
+   "Other": 29770.1,
+   "Merchandise": 353144.24,
+   "Recovery Pitch": 740.0,
+   "Emergency (Jail, Accident, Hospital, Help)": 16431.33
+  },
+  "band_total": 8244022.5,
+  "band_avg_per_report_with_loss": 4987.31
+ },
+ {
+  "age": "90 - 99",
+  "cells": {
+   "Investments": 1992382.58,
+   "Romance": 63546.9,
+   "Spear Phishing": 0.0,
+   "Job": 0,
+   "Service": 126075.6,
+   "Extortion": 83429.0,
+   "Unknown": 161497.0,
+   "Bank Investigator": 189972.26,
+   "Other": 251300.0,
+   "Merchandise": 33473.8,
+   "Recovery Pitch": 9000.0,
+   "Emergency (Jail, Accident, Hospital, Help)": 1229753.35
+  },
+  "band_total": 4744147.5,
+  "band_avg_per_report_with_loss": 20807.66
+ }
+]

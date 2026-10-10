@@ -1,0 +1,314 @@
+[
+ {
+  "category": "Investments",
+  "loss": 1382138342.47,
+  "reports": 20394,
+  "victim_reports_with_loss": 17132,
+  "avg_loss_per_victim": 80675.83,
+  "share": 51.43
+ },
+ {
+  "category": "Romance",
+  "loss": 292694595.29,
+  "reports": 6779,
+  "victim_reports_with_loss": 4670,
+  "avg_loss_per_victim": 62675.5,
+  "share": 10.89
+ },
+ {
+  "category": "Spear Phishing",
+  "loss": 281667762.33,
+  "reports": 6314,
+  "victim_reports_with_loss": 2737,
+  "avg_loss_per_victim": 102911.13,
+  "share": 10.48
+ },
+ {
+  "category": "Job",
+  "loss": 143117440.27,
+  "reports": 14195,
+  "victim_reports_with_loss": 6406,
+  "avg_loss_per_victim": 22341.16,
+  "share": 5.33
+ },
+ {
+  "category": "Service",
+  "loss": 90351104.51,
+  "reports": 26962,
+  "victim_reports_with_loss": 7767,
+  "avg_loss_per_victim": 11632.69,
+  "share": 3.36
+ },
+ {
+  "category": "Extortion",
+  "loss": 86275860.65,
+  "reports": 32779,
+  "victim_reports_with_loss": 3089,
+  "avg_loss_per_victim": 27930.03,
+  "share": 3.21
+ },
+ {
+  "category": "Unknown",
+  "loss": 61770284.09,
+  "reports": 9618,
+  "victim_reports_with_loss": 892,
+  "avg_loss_per_victim": 69249.2,
+  "share": 2.3
+ },
+ {
+  "category": "Bank Investigator",
+  "loss": 60135266.43,
+  "reports": 15134,
+  "victim_reports_with_loss": 3216,
+  "avg_loss_per_victim": 18698.78,
+  "share": 2.24
+ },
+ {
+  "category": "Other",
+  "loss": 57625960.51,
+  "reports": 10675,
+  "victim_reports_with_loss": 813,
+  "avg_loss_per_victim": 70880.64,
+  "share": 2.14
+ },
+ {
+  "category": "Merchandise",
+  "loss": 50443600.36,
+  "reports": 18420,
+  "victim_reports_with_loss": 13576,
+  "avg_loss_per_victim": 3715.65,
+  "share": 1.88
+ },
+ {
+  "category": "Recovery Pitch",
+  "loss": 42724978.3,
+  "reports": 2060,
+  "victim_reports_with_loss": 981,
+  "avg_loss_per_victim": 43552.48,
+  "share": 1.59
+ },
+ {
+  "category": "Emergency (Jail, Accident, Hospital, Help)",
+  "loss": 28483855.55,
+  "reports": 7979,
+  "victim_reports_with_loss": 2791,
+  "avg_loss_per_victim": 10205.61,
+  "share": 1.06
+ },
+ {
+  "category": "Vendor Fraud",
+  "loss": 26423650.82,
+  "reports": 10101,
+  "victim_reports_with_loss": 5506,
+  "avg_loss_per_victim": 4799.06,
+  "share": 0.98
+ },
+ {
+  "category": "Prize",
+  "loss": 22411132.58,
+  "reports": 4735,
+  "victim_reports_with_loss": 994,
+  "avg_loss_per_victim": 22546.41,
+  "share": 0.83
+ },
+ {
+  "category": "Loan",
+  "loss": 19611411.28,
+  "reports": 1953,
+  "victim_reports_with_loss": 1202,
+  "avg_loss_per_victim": 16315.65,
+  "share": 0.73
+ },
+ {
+  "category": "Foreign Money Offer",
+  "loss": 15075054.54,
+  "reports": 1691,
+  "victim_reports_with_loss": 169,
+  "avg_loss_per_victim": 89201.51,
+  "share": 0.56
+ },
+ {
+  "category": "Timeshare",
+  "loss": 8806583.37,
+  "reports": 221,
+  "victim_reports_with_loss": 142,
+  "avg_loss_per_victim": 62018.19,
+  "share": 0.33
+ },
+ {
+  "category": "GRANT",
+  "loss": 7233821.29,
+  "reports": 1793,
+  "victim_reports_with_loss": 504,
+  "avg_loss_per_victim": 14352.82,
+  "share": 0.27
+ },
+ {
+  "category": "Counterfeit Merchandise",
+  "loss": 3465055.28,
+  "reports": 13497,
+  "victim_reports_with_loss": 13107,
+  "avg_loss_per_victim": 264.37,
+  "share": 0.13
+ },
+ {
+  "category": "False Billing",
+  "loss": 1946897.87,
+  "reports": 2172,
+  "victim_reports_with_loss": 386,
+  "avg_loss_per_victim": 5043.78,
+  "share": 0.07
+ },
+ {
+  "category": "Psychics",
+  "loss": 1699662.49,
+  "reports": 170,
+  "victim_reports_with_loss": 97,
+  "avg_loss_per_victim": 17522.29,
+  "share": 0.06
+ },
+ {
+  "category": "Pyramid",
+  "loss": 1534949.0,
+  "reports": 299,
+  "victim_reports_with_loss": 220,
+  "avg_loss_per_victim": 6977.04,
+  "share": 0.06
+ },
+ {
+  "category": "Vacation",
+  "loss": 812753.41,
+  "reports": 172,
+  "victim_reports_with_loss": 107,
+  "avg_loss_per_victim": 7595.83,
+  "share": 0.03
+ },
+ {
+  "category": "Charity / Donation",
+  "loss": 367460.22,
+  "reports": 471,
+  "victim_reports_with_loss": 97,
+  "avg_loss_per_victim": 3788.25,
+  "share": 0.01
+ },
+ {
+  "category": "Incomplete",
+  "loss": 185956.13,
+  "reports": 719,
+  "victim_reports_with_loss": 54,
+  "avg_loss_per_victim": 3443.63,
+  "share": 0.01
+ },
+ {
+  "category": "Collection Agency",
+  "loss": 137672.94,
+  "reports": 1503,
+  "victim_reports_with_loss": 36,
+  "avg_loss_per_victim": 3824.25,
+  "share": 0.01
+ },
+ {
+  "category": "Credit Card",
+  "loss": 135902.44,
+  "reports": 63,
+  "victim_reports_with_loss": 46,
+  "avg_loss_per_victim": 2954.4,
+  "share": 0.01
+ },
+ {
+  "category": "Unauthorized Charge",
+  "loss": 72000.54,
+  "reports": 99,
+  "victim_reports_with_loss": 62,
+  "avg_loss_per_victim": 1161.3,
+  "share": 0.0
+ },
+ {
+  "category": "Directory",
+  "loss": 49038.39,
+  "reports": 50,
+  "victim_reports_with_loss": 11,
+  "avg_loss_per_victim": 4458.04,
+  "share": 0.0
+ },
+ {
+  "category": "Health",
+  "loss": 8282.82,
+  "reports": 78,
+  "victim_reports_with_loss": 19,
+  "avg_loss_per_victim": 435.94,
+  "share": 0.0
+ },
+ {
+  "category": "Fraudulent Cheque",
+  "loss": 7938.0,
+  "reports": 4,
+  "victim_reports_with_loss": 1,
+  "avg_loss_per_victim": 7938.0,
+  "share": 0.0
+ },
+ {
+  "category": "Telecom Fraud",
+  "loss": 4823.24,
+  "reports": 93,
+  "victim_reports_with_loss": 7,
+  "avg_loss_per_victim": 689.03,
+  "share": 0.0
+ },
+ {
+  "category": "Survey",
+  "loss": 1101.56,
+  "reports": 113,
+  "victim_reports_with_loss": 7,
+  "avg_loss_per_victim": 157.37,
+  "share": 0.0
+ },
+ {
+  "category": "Spoofing",
+  "loss": 45.0,
+  "reports": 206,
+  "victim_reports_with_loss": 1,
+  "avg_loss_per_victim": 45.0,
+  "share": 0.0
+ },
+ {
+  "category": "Personal Info",
+  "loss": 0.0,
+  "reports": 28626,
+  "victim_reports_with_loss": 0,
+  "avg_loss_per_victim": 0,
+  "share": 0.0
+ },
+ {
+  "category": "Identity Fraud",
+  "loss": 0.0,
+  "reports": 80073,
+  "victim_reports_with_loss": 0,
+  "avg_loss_per_victim": 0,
+  "share": 0.0
+ },
+ {
+  "category": "Phishing",
+  "loss": 0.0,
+  "reports": 30138,
+  "victim_reports_with_loss": 0,
+  "avg_loss_per_victim": 0,
+  "share": 0.0
+ },
+ {
+  "category": "Office Supplies",
+  "loss": 0.0,
+  "reports": 10,
+  "victim_reports_with_loss": 0,
+  "avg_loss_per_victim": 0,
+  "share": 0.0
+ },
+ {
+  "category": "Modem-Hijacking",
+  "loss": 0.0,
+  "reports": 2,
+  "victim_reports_with_loss": 0,
+  "avg_loss_per_victim": 0,
+  "share": 0.0
+ }
+]

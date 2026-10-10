@@ -1,0 +1,344 @@
+[
+ {
+  "quarter": "2021-Q1",
+  "total": 66868576.65,
+  "by_category": {
+   "Investments": 22133787.44,
+   "Romance": 10548829.84,
+   "Spear Phishing": 13007787.52,
+   "Job": 1526610.01,
+   "Service": 3942408.01,
+   "Extortion": 4428451.98,
+   "Unknown": 134760.67,
+   "Bank Investigator": 1301492.09,
+   "Other": 681580.96,
+   "Merchandise": 2965961.6,
+   "Recovery Pitch": 866158.0,
+   "Emergency (Jail, Accident, Hospital, Help)": 745101.63
+  }
+ },
+ {
+  "quarter": "2021-Q2",
+  "total": 81879297.26,
+  "by_category": {
+   "Investments": 27758525.51,
+   "Romance": 15960071.62,
+   "Spear Phishing": 14486451.73,
+   "Job": 863145.86,
+   "Service": 3213656.4,
+   "Extortion": 4006463.78,
+   "Unknown": 2428734.9,
+   "Bank Investigator": 1292092.22,
+   "Other": 576269.41,
+   "Merchandise": 1436649.13,
+   "Recovery Pitch": 356995.0,
+   "Emergency (Jail, Accident, Hospital, Help)": 592877.14
+  }
+ },
+ {
+  "quarter": "2021-Q3",
+  "total": 92196746.3,
+  "by_category": {
+   "Investments": 43481784.51,
+   "Romance": 20259307.7,
+   "Spear Phishing": 4914420.09,
+   "Job": 5728864.83,
+   "Service": 1843099.71,
+   "Extortion": 4686541.75,
+   "Unknown": 2363034.35,
+   "Bank Investigator": 1257026.72,
+   "Other": 221107.86,
+   "Merchandise": 2007391.5,
+   "Recovery Pitch": 124977.0,
+   "Emergency (Jail, Accident, Hospital, Help)": 322194.31
+  }
+ },
+ {
+  "quarter": "2021-Q4",
+  "total": 147787960.58,
+  "by_category": {
+   "Investments": 77052679.6,
+   "Romance": 18835890.16,
+   "Spear Phishing": 21843455.33,
+   "Job": 1378925.6,
+   "Service": 2850508.23,
+   "Extortion": 5083008.19,
+   "Unknown": 774755.95,
+   "Bank Investigator": 816231.36,
+   "Other": 535363.54,
+   "Merchandise": 5918616.54,
+   "Recovery Pitch": 332279.19,
+   "Emergency (Jail, Accident, Hospital, Help)": 799476.26
+  }
+ },
+ {
+  "quarter": "2022-Q1",
+  "total": 131576029.56,
+  "by_category": {
+   "Investments": 72643686.12,
+   "Romance": 20321645.92,
+   "Spear Phishing": 18408140.95,
+   "Job": 1499978.67,
+   "Service": 5298304.09,
+   "Extortion": 2785383.43,
+   "Unknown": 607690.07,
+   "Bank Investigator": 868250.76,
+   "Other": 256498.66,
+   "Merchandise": 2319218.35,
+   "Recovery Pitch": 534694.45,
+   "Emergency (Jail, Accident, Hospital, Help)": 952550.73
+  }
+ },
+ {
+  "quarter": "2022-Q2",
+  "total": 121883417.17,
+  "by_category": {
+   "Investments": 66857863.47,
+   "Romance": 14964773.37,
+   "Spear Phishing": 8939889.05,
+   "Job": 2669526.72,
+   "Service": 4972422.91,
+   "Extortion": 9150726.01,
+   "Unknown": 512681.44,
+   "Bank Investigator": 2136325.7,
+   "Other": 3322852.49,
+   "Merchandise": 1326358.84,
+   "Recovery Pitch": 643046.09,
+   "Emergency (Jail, Accident, Hospital, Help)": 1689966.76
+  }
+ },
+ {
+  "quarter": "2022-Q3",
+  "total": 118174186.98,
+  "by_category": {
+   "Investments": 59857235.77,
+   "Romance": 12345682.93,
+   "Spear Phishing": 19432688.4,
+   "Job": 1001820.1,
+   "Service": 4274072.6,
+   "Extortion": 4572587.01,
+   "Unknown": 506707.12,
+   "Bank Investigator": 3133572.75,
+   "Other": 843182.27,
+   "Merchandise": 1922088.9,
+   "Recovery Pitch": 225334.65,
+   "Emergency (Jail, Accident, Hospital, Help)": 3751167.79
+  }
+ },
+ {
+  "quarter": "2022-Q4",
+  "total": 161970007.62,
+  "by_category": {
+   "Investments": 108689248.32,
+   "Romance": 12716058.73,
+   "Spear Phishing": 11342124.27,
+   "Job": 2057248.86,
+   "Service": 6902540.64,
+   "Extortion": 2596631.17,
+   "Unknown": 510644.25,
+   "Bank Investigator": 2061784.88,
+   "Other": 2882737.59,
+   "Merchandise": 3292882.14,
+   "Recovery Pitch": 1111031.92,
+   "Emergency (Jail, Accident, Hospital, Help)": 3240735.35
+  }
+ },
+ {
+  "quarter": "2023-Q1",
+  "total": 139824043.65,
+  "by_category": {
+   "Investments": 82009094.48,
+   "Romance": 15175039.96,
+   "Spear Phishing": 12179528.91,
+   "Job": 1390138.32,
+   "Service": 5189393.1,
+   "Extortion": 1130698.0,
+   "Unknown": 1467300.0,
+   "Bank Investigator": 3743486.89,
+   "Other": 464051.49,
+   "Merchandise": 2533040.57,
+   "Recovery Pitch": 2687962.46,
+   "Emergency (Jail, Accident, Hospital, Help)": 4790187.73
+  }
+ },
+ {
+  "quarter": "2023-Q2",
+  "total": 152948759.21,
+  "by_category": {
+   "Investments": 84012290.93,
+   "Romance": 12113061.33,
+   "Spear Phishing": 21861468.32,
+   "Job": 3626749.25,
+   "Service": 7934864.43,
+   "Extortion": 3075432.11,
+   "Unknown": 515773.82,
+   "Bank Investigator": 3074089.5,
+   "Other": 3873838.56,
+   "Merchandise": 4247006.44,
+   "Recovery Pitch": 851629.51,
+   "Emergency (Jail, Accident, Hospital, Help)": 4585636.77
+  }
+ },
+ {
+  "quarter": "2023-Q3",
+  "total": 136604295.52,
+  "by_category": {
+   "Investments": 72186662.87,
+   "Romance": 11120413.25,
+   "Spear Phishing": 14165176.04,
+   "Job": 9839347.45,
+   "Service": 4883211.18,
+   "Extortion": 2584753.27,
+   "Unknown": 1087085.9,
+   "Bank Investigator": 2741282.15,
+   "Other": 8259138.23,
+   "Merchandise": 2389334.26,
+   "Recovery Pitch": 1757478.86,
+   "Emergency (Jail, Accident, Hospital, Help)": 961457.25
+  }
+ },
+ {
+  "quarter": "2023-Q4",
+  "total": 148769611.37,
+  "by_category": {
+   "Investments": 80610304.12,
+   "Romance": 14512197.78,
+   "Spear Phishing": 11178774.6,
+   "Job": 16272871.01,
+   "Service": 4491657.75,
+   "Extortion": 6409641.7,
+   "Unknown": 1609560.98,
+   "Bank Investigator": 1437679.93,
+   "Other": 3152778.47,
+   "Merchandise": 2013905.21,
+   "Recovery Pitch": 2046864.68,
+   "Emergency (Jail, Accident, Hospital, Help)": 1246543.01
+  }
+ },
+ {
+  "quarter": "2024-Q1",
+  "total": 131404144.28,
+  "by_category": {
+   "Investments": 75695228.69,
+   "Romance": 12270690.4,
+   "Spear Phishing": 9348951.3,
+   "Job": 12787503.58,
+   "Service": 3327381.29,
+   "Extortion": 5916997.08,
+   "Unknown": 601917.71,
+   "Bank Investigator": 2870239.7,
+   "Other": 884914.04,
+   "Merchandise": 2012603.13,
+   "Recovery Pitch": 1174579.88,
+   "Emergency (Jail, Accident, Hospital, Help)": 974205.18
+  }
+ },
+ {
+  "quarter": "2024-Q2",
+  "total": 190985753.46,
+  "by_category": {
+   "Investments": 78401395.75,
+   "Romance": 14034608.08,
+   "Spear Phishing": 17892638.93,
+   "Job": 13842285.73,
+   "Service": 4831129.4,
+   "Extortion": 3333223.01,
+   "Unknown": 40150321.02,
+   "Bank Investigator": 3364514.52,
+   "Other": 2876758.51,
+   "Merchandise": 3327700.86,
+   "Recovery Pitch": 2500285.87,
+   "Emergency (Jail, Accident, Hospital, Help)": 915603.89
+  }
+ },
+ {
+  "quarter": "2024-Q3",
+  "total": 146869749.12,
+  "by_category": {
+   "Investments": 78987518.38,
+   "Romance": 12077337.16,
+   "Spear Phishing": 10706070.1,
+   "Job": 10092956.34,
+   "Service": 5774605.07,
+   "Extortion": 5918596.14,
+   "Unknown": 868695.17,
+   "Bank Investigator": 8303507.35,
+   "Other": 1362992.69,
+   "Merchandise": 2221361.15,
+   "Recovery Pitch": 2893635.45,
+   "Emergency (Jail, Accident, Hospital, Help)": 560694.85
+  }
+ },
+ {
+  "quarter": "2024-Q4",
+  "total": 176069537.93,
+  "by_category": {
+   "Investments": 79134922.86,
+   "Romance": 20754332.37,
+   "Spear Phishing": 29557783.76,
+   "Job": 12173370.89,
+   "Service": 7118589.77,
+   "Extortion": 5969217.9,
+   "Unknown": 1288144.73,
+   "Bank Investigator": 3025098.17,
+   "Other": 3964241.13,
+   "Merchandise": 2051765.59,
+   "Recovery Pitch": 2677187.51,
+   "Emergency (Jail, Accident, Hospital, Help)": 823174.41
+  }
+ },
+ {
+  "quarter": "2025-Q1",
+  "total": 165534048.56,
+  "by_category": {
+   "Investments": 82435681.09,
+   "Romance": 18989325.63,
+   "Spear Phishing": 8022224.94,
+   "Job": 23065873.04,
+   "Service": 3647602.0,
+   "Extortion": 2664125.46,
+   "Unknown": 679759.56,
+   "Bank Investigator": 6075848.29,
+   "Other": 8451039.27,
+   "Merchandise": 2140217.13,
+   "Recovery Pitch": 4605434.02,
+   "Emergency (Jail, Accident, Hospital, Help)": 485799.46
+  }
+ },
+ {
+  "quarter": "2025-Q2",
+  "total": 184980636.36,
+  "by_category": {
+   "Investments": 89977851.87,
+   "Romance": 17426178.09,
+   "Spear Phishing": 18728415.09,
+   "Job": 11888359.41,
+   "Service": 5291485.39,
+   "Extortion": 7103670.53,
+   "Unknown": 4863224.73,
+   "Bank Investigator": 6026419.3,
+   "Other": 7069945.28,
+   "Merchandise": 4536465.39,
+   "Recovery Pitch": 6920590.79,
+   "Emergency (Jail, Accident, Hospital, Help)": 340244.85
+  }
+ },
+ {
+  "quarter": "2025-Q3",
+  "total": 191093442.39,
+  "by_category": {
+   "Investments": 100212580.69,
+   "Romance": 18269150.97,
+   "Spear Phishing": 15651773.0,
+   "Job": 11411864.6,
+   "Service": 4564172.54,
+   "Extortion": 4859712.13,
+   "Unknown": 799491.72,
+   "Bank Investigator": 6606324.15,
+   "Other": 7946670.06,
+   "Merchandise": 1781033.63,
+   "Recovery Pitch": 10414812.97,
+   "Emergency (Jail, Accident, Hospital, Help)": 706238.18
+  }
+ }
+]

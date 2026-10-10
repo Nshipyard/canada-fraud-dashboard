@@ -1,0 +1,14 @@
+province,total_loss_cad,reports,population_2026,loss_per_capita_cad,small_sample
+Nunavut,3542643.47,100,43091,82.21,True
+British Columbia,355311374.64,33958,5710598,62.22,False
+Ontario,1008002431.76,102210,16262121,61.98,False
+Manitoba,81352540.8,9536,1517379,53.61,False
+Alberta,273295241.1,28044,5101050,53.58,False
+Saskatchewan,51316138.46,6219,1278402,40.14,False
+Yukon,1763624.0,320,50356,35.02,True
+Northwest Territories,1479780.64,206,45904,32.24,True
+Quebec,240295438.89,71813,9067114,26.5,False
+Prince Edward Island,4714684.4,904,182989,25.76,True
+Nova Scotia,26383611.78,5684,1103419,23.91,False
+New Brunswick,21008971.21,4668,883522,23.78,False
+Newfoundland and Labrador,10786361.87,2032,552462,19.52,False

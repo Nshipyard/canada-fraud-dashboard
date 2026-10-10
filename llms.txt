@@ -1,0 +1,38 @@
+# Fraud, Living (llms.txt)
+
+## Summary
+An open-source EN/FR web project that normalizes the Canadian Anti-Fraud Centre Fraud Reporting System Dataset (350,361 reports, $2.687B reported losses) and ranks scam types by loss, with age-band and per-capita province views and quarterly trends. Source: open.canada.ca, RCMP/CAFC, extract 2025-10-01, coverage 2021-01-01 to 2025-09-30, retrieved 2026-10-10. Planned domain: fraud.canada.nshipyard.com. Not affiliated with the Government of Canada, the RCMP, or the CAFC.
+
+## Headline findings (all from public/data/*.json)
+- Total: $2,687,420,244 in reported losses across 350,361 reports. 100% of losses come from rows marked Victim; Attempt rows carry $0 in this extract.
+- Investments: $1,382,138,342 (51.43%), 20,394 reports, 17,132 victim reports with loss, avg $80,675.83. Top scam type in every victim age band from 20 to 89.
+- Spear Phishing: $281,667,762, avg $102,911.13 per victim report (highest of any type), 2,737 victim reports with loss.
+- Romance: $292,694,595, avg $62,675.50.
+- Job scams: $143,117,440, fastest growth at 7.5x from Q1 2021 ($1.53M) to Q3 2025 ($11.41M). Bank Investigator 5.1x ($1.30M to $6.61M). Investments 4.5x ($22.13M to $100.21M).
+- Age: 60-69 leads at $429,129,052. Average loss per victim report peaks at 60-69 ($49,708). 37.7% of reported losses carry no victim age.
+- Province per capita: BC $62.22, Ontario $61.98, Manitoba $53.61, Alberta $53.58, Quebec $26.50. Nunavut $82.21 flagged small-sample (100 reports). 19.9% of losses carry no province; grain is province only.
+- Population basis: StatCan quarterly population estimates, July 1 2026, table 17-10-0009-01.
+- Solicitation: Internet-social network $828.8M (39,565 reports), Internet $678.3M (33,356), Email $347.9M (39,304), Direct call $309.1M (81,723 reports, most reports).
+- Top 3 types carry 72.8% of all reported losses.
+- Data fixes: loss field parsed as $1,234.56 text, zero rejected rows out of 350,361. Age bands stripped of a leading Excel quote. Province spellings canonicalized (North West Territories, Newfoundland And Labrador). US-state province entries (10 rows plus 2,399 US-country rows) excluded from per-capita math. No rows quarantined from totals.
+
+## Data files
+- public/data/meta.json: source vintage, quarantine log (empty), honest limits
+- public/data/category_ranking.json: 39 scam types (loss, reports, victim_reports_with_loss, avg_loss_per_victim, share)
+- public/data/age_heatmap.json: 9 age bands by top 12 scam types
+- public/data/province_ranking.json: 13 provinces (loss, reports, population, loss_per_capita, unstable flag)
+- public/data/trends.json: quarterly totals 2021-Q1 to 2025-Q3 with top-12 category splits
+- public/data/methods.json: solicitation methods by loss
+- public/data/slices.json: 1,829 category x province x age triples
+- public/data/downloads/*.csv: scam-type-ranking, province-per-capita, quarterly-trends, age-band-by-scam-type
+
+## API
+- GET /api/v1/summary: headline aggregates
+- GET /api/v1/explore?category=&province=&age=: filterable slices (limit 200 max)
+- GET /api/v1/ranking?limit=: 39 scam types by loss
+- GET /api/v1/provinces: per-capita province ranking
+- GET /api/v1/trends?categories=: quarterly loss series
+- GET /api/v1/heatmap: age-band matrix
+- GET /api/v1/methods: solicitation methods
+- GET /api/openapi.json: OpenAPI 3.1
+- POST /mcp: tools fraud_lookup, scam_ranking, trend
