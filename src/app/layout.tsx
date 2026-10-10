@@ -8,6 +8,7 @@ import "./globals.css";
 import { LangProvider } from "@/i18n";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://fraud.canada.nshipyard.com"),
   title: "Fraud Losses, Tracked: 350,361 reports, $2.687B in losses, ranked",
   description:
     "The Canadian Anti-Fraud Centre's 350,361 reports normalized and ranked: $2.687B in reported losses, investment fraud alone 51.5%, spear phishing $102,911 per victim, BC and Ontario $62 per person. Explorer, charts, REST API, OpenAPI docs, and MCP tools. An independent open-source project, not affiliated with the Government of Canada, the RCMP, or the CAFC. MIT licensed.",
@@ -18,6 +19,27 @@ export const metadata: Metadata = {
       "/favicon.ico",
     ],
     apple: "/apple-touch-icon.png",
+  },
+  openGraph: {
+    title: "Fraud Losses, Tracked: 350,361 reports, $2.687B in losses, ranked",
+    description:
+      "The Canadian Anti-Fraud Centre's 350,361 reports normalized and ranked: $2.687B in reported losses, investment fraud alone 51.5%, spear phishing $102,911 per victim, BC and Ontario $62 per person. Explorer, charts, REST API, OpenAPI docs, and MCP tools. An independent open-source project, not affiliated with the Government of Canada, the RCMP, or the CAFC. MIT licensed.",
+    type: "website",
+    images: [
+      {
+        url: "/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "Fraud Losses, Tracked: 350,361 reports, $2.687B in losses, ranked",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Fraud Losses, Tracked: 350,361 reports, $2.687B in losses, ranked",
+    description:
+      "The Canadian Anti-Fraud Centre's 350,361 reports normalized and ranked: $2.687B in reported losses, investment fraud alone 51.5%, spear phishing $102,911 per victim, BC and Ontario $62 per person. Explorer, charts, REST API, OpenAPI docs, and MCP tools. An independent open-source project, not affiliated with the Government of Canada, the RCMP, or the CAFC. MIT licensed.",
+    images: ["/og-image.png"],
   },
 };
 
